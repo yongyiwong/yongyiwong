@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Yong from Malaysia
 - 👀 I’m interested in Typescript/Javascript, Node, Express, NestJs, React, NextJS, GraphQL
 - 📀 I’m currently learning blockchain, cryptocurrency
-- 🙂 I’m looking for a new position to work with
+- 🙂 I’m looking for a new position to work
 - 🕛 I am a night owl 😅 - usually 8AM-7PM GMT +1
 - 🚀 You can reach me via yongyi.fullstack@gmail.com
 - 👉 https://linkedin.com/in/yongyiwong
