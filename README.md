@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yong, Full stack developer
-- 👀 I’m interested in Typescript/Javascript, Node, Express, NestJs, React, NextJS, GraphQL
+- 👀 I’ve been developing with Typescript/Javascript, Node, Express, NestJs, Adonis, React, NextJS, GraphQL, PostgreSQL, MongoDB, MySQL
 - 📀 I’m currently learning blockchain, cryptocurrency
 - 🙂 I’m looking for a new position to work
 - 🕛 I am a night owl 😅 - usually 8AM-7PM GMT +1
