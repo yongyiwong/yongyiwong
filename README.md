@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Yong from Malaysia
+- 👋 Hi, I’m Yong, Full stack developer
 - 👀 I’m interested in Typescript/Javascript, Node, Express, NestJs, React, NextJS, GraphQL
 - 📀 I’m currently learning blockchain, cryptocurrency
 - 🙂 I’m looking for a new position to work
