@@ -2,7 +2,7 @@
 - 👀 I’ve been developing with Typescript/Javascript, Node, Express, NestJs, Adonis, React, NextJS, GraphQL, PostgreSQL, MongoDB, MySQL
 - 📀 I’m currently learning blockchain, cryptocurrency
 - 🙂 I’m looking for a new position to work
-- 🕛 I am a night owl 😅 - usually 8AM-7PM GMT +1
+- 🕛 Working hours - usually 8AM-7PM GMT +1
 - 🚀 You can reach me via yongyi.fullstack@gmail.com
 - 👉 https://linkedin.com/in/yongyiwong
 - 👉 https://yywithtech.com
