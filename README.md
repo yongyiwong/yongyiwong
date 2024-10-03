@@ -3,7 +3,6 @@
 - 📀 I’m currently learning blockchain, cryptocurrency
 - 🙂 I’m looking for a new position to work
 - 🕛 Working hours - usually 8AM-7PM GMT +1
-- 👉 https://linkedin.com/in/yongyiwong
 
 
 <!---
