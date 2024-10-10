@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yong, Full stack developer
 - 👀 I’ve been developing with Typescript/Javascript, Node, Express, NestJs, Adonis, React/React Native, NextJS, GraphQL, PostgreSQL, MongoDB, MySQL
-- 📀 I’m currently learning blockchain, cryptocurrency
+- 📀 Proficiency with Blockchain & AI 
 - 🙂 I’m looking for a new position to work
 - 🕛 Working hours - usually 8AM-7PM GMT +1
 
