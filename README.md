@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Yong, Full stack developer
-- 👀 I’ve been developing with Typescript/Javascript, NestJS, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI, PostgreSQL, MongoDB, MySQL, NextJS, React
+- 👀 I’ve been developing with Typescript/Javascript, NestJS, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI, Kafka, RabbitMQ, PostgreSQL, MongoDB, MySQL, NextJS, React
 - 📀 Versed in AWS, EB, ECS, Lambda, S3
 - 📀 Proficient with Blockchain & AI 
 - 🙂 I’m looking for a new position to work
