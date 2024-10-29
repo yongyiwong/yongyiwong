@@ -9,7 +9,7 @@
 - 📀 Versed in AWS, EB, ECS, Lambda, Fargate, S3
 - 📀 Proficient with Blockchain & AI 
 - 🙂 I’m looking for a new position to work
-- 🕛 Working hours - usually 8AM-7PM GMT +1
+- 🕛 Working hours - GMT +2
 
 
 <!---
