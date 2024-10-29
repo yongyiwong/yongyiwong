@@ -3,7 +3,7 @@
      * Typescript/Javascript, Python
      * NestJS, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI
      * Kafka, RabbitMQ
-     * PostgreSQL, MongoDB, MySQL
+     * PostgreSQL, MongoDB, MySQL, CouchDB, DynamaDB, Firebase
      * Prisma, TypeORM, Sequelize, Knex
      * Next, React, Nuxt, Vue, SvelteKit, Svelte, Tailwind, Redux, Zustand, Styled-component, twin-macro
 - 📀 Versed in AWS, EB, ECS, Lambda, Fargate, S3
