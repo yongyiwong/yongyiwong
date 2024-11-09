@@ -1,7 +1,7 @@
 - 👋 Hi, My name is Yong Yi Wong
 - 👀 I’ve been developing with
      * Typescript/Javascript, Python
-     * NestJS, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI
+     * NestJS, Koa, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI
      * Kafka, RabbitMQ
      * PostgreSQL, MongoDB, MySQL, CouchDB, DynamaDB, Firebase
      * Prisma, TypeORM, Sequelize, Knex
