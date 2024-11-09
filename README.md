@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my github
+- 👋 Hi, My name is Yong Yi Wong
 - 👀 I’ve been developing with
      * Typescript/Javascript, Python
      * NestJS, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI
@@ -8,7 +8,7 @@
      * Next, React, Nuxt, Vue, SvelteKit, Svelte, Tailwind, Redux, Zustand, Styled-component, twin-macro
 - 📀 Versed in AWS service (EB, ECS, Lambda, Fargate, S3)
 - 📀 Proficient with Blockchain & AI 
-- 🙂 I’m looking for a new position to work
+- 🙂 I’m looking for a new position to work. please contact me to yongyiwang.fullstack@gmail.com
 - 🕛 Working hours : GMT +2
 
 
