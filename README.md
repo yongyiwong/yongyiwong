@@ -6,7 +6,7 @@
      * PostgreSQL, MongoDB, MySQL, CouchDB, DynamaDB, Firebase
      * Prisma, TypeORM, Sequelize, Knex
      * Next, React, Nuxt, Vue, SvelteKit, Svelte, Tailwind, Redux, Zustand, Styled-component, twin-macro
-- 📀 Versed in AWS service (EB, ECS, Lambda, Fargate, S3)
+- 📀 Versed in AWS service (EB, ECS, Lambda, Fargate, S3, Terraform)
 - 📀 Proficient with Blockchain & AI 
 - 🙂 I’m looking for a new position to work. please contact me to yongyiwang.fullstack@gmail.com
 - 🕛 Working hours : GMT +2
