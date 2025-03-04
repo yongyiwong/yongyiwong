@@ -1,4 +1,3 @@
-- 👋 Hi, My name is Yong Yi Wong
 - 👀 I’ve been developing with
      * Typescript/Javascript, Python
      * NestJS, Koa, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI
@@ -10,7 +9,6 @@
 - 📀 Versed in AWS service (EKS, EB, ECS, Lambda, Fargate, S3, Terraform)
 - 📀 Proficient with Blockchain & AI 
 - 🙂 I’m looking for a new position to work. please contact me to yongyiwang.fullstack@gmail.com
-- 🕛 Working hours : GMT +2
 
 
 <!---
