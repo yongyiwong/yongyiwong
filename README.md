@@ -2,7 +2,7 @@
      * Typescript/Javascript, Python
      * NestJS, Koa, Express, docker, docker-compose, Microservice, Websocket, gRPC, Protocol buffer, GraphQL, RestAPI
      * Kafka, RabbitMQ
-     * PostgreSQL, MongoDB, MySQL, CouchDB, DynamaDB, Firebase
+     * PostgreSQL, MongoDB, MySQL, CouchDB, DynamaDB, Firebase, Supabase
      * Prisma, TypeORM, Sequelize, Knex
      * Next, React, Nuxt, Vue, SvelteKit, Svelte, Tailwind, Redux, Zustand, Styled-component, twin-macro
      * FastAPI
