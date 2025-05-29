@@ -5,7 +5,7 @@
      * PostgreSQL, MongoDB, MySQL, CouchDB, DynamaDB, Firebase, Supabase
      * Prisma, TypeORM, Sequelize, Knex
      * Next, React, Nuxt, Vue, SvelteKit, Svelte, Tailwind, Redux, Zustand, Styled-component, twin-macro
-     * FastAPI
+     * Django, FastAPI
 - 📀 Versed in AWS service (EKS, EB, ECS, Lambda, Fargate, S3, Terraform)
 - 📀 Proficient with Blockchain & AI 
 - 🙂 I’m looking for a new position to work.
